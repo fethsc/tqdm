@@ -1,0 +1,15 @@
+# fet - Number Theory
+1. Integer sequences: https://en.wikipedia.org/wiki/Category:Integer_sequences
+2. Natural number: https://en.wikipedia.org/wiki/Natural_number#Modern_definitions
+    a) with zero: {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 ... to infinity}
+    b) withut zero: {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11... to infinity} counting numbers
+3. Fibonacci Sequence: wiki link: https://en.wikipedia.org/wiki/Fibonacci_number
+3. Lucas Sequence: https://en.wikipedia.org/wiki/Lucas_number#Lucas_primes
+4. Mersennes Sequence: https://en.wikipedia.org/wiki/Mersenne_prime
+=================================================================================
+# fet - Fibonacci Sequence
+1. Fibonacci numbers are: (0), 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144 ...
+2. Fibonacci: named after the Italian mathematician Lenoardo of Pisa, aka Fibonacci
+3. Fibonacci sequence is connected with the Golden Ratio (phi) to be ~ 1.618033989 ... 
+4. Mersenne numbers: 2, 3, 5, 7, 13, 17, 19, 31, ... (2 raised to the exponent n minus 1)
+==================================================================================
